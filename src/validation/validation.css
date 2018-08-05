@@ -1,0 +1,14 @@
+.validationComponent .small {
+    color: blueviolet;
+    font-style: italic;
+}
+
+.validationComponent .good {
+    color: blue;
+    font-style: italic;
+}
+
+.validationComponent .large {
+    color: brown;
+    font-weight: bold;
+}
